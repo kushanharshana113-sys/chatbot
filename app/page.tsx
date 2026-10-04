@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{fontFamily:'Arial',maxWidth:720,margin:'60px auto',padding:24}}><h1>WhatsApp Class Bot</h1><p>Bot is running. Meta webhook endpoint: <code>/api/webhook</code></p><p>Send <b>Hi</b>, <b>Hello</b>, <b>Menu</b> or <b>Start</b> to begin.</p></main>}
